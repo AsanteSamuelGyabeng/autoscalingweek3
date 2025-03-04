@@ -1,0 +1,4 @@
+template-file-path: newtemplate.yaml
+parameters:
+  KeyName: MyKeyPair
+tags: {}
